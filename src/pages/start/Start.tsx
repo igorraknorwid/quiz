@@ -13,7 +13,7 @@ const Start = () => {
     <main className="main">
       <BrowserView>
         <h1>This is rendered only in browser</h1>
-        <h1>Test</h1>
+        <h1>Test new</h1>
         <div>store.test: {store.test}</div>
         <img src={jpg} alt="" />
         <img src={png} alt="" />
